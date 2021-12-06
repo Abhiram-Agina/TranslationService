@@ -1,0 +1,6 @@
+easyocr
+streamlit
+PIL
+numpy
+mtranslate
+gtts
