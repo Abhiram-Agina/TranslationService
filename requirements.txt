@@ -1,6 +1,6 @@
 easyocr
 streamlit
-PIL
+Pillow
 numpy
 mtranslate
 gtts
